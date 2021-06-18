@@ -2,7 +2,7 @@
 
 Credit to:
 - Misra Turp (https://www.soyouwanttobeadatascientist.com/)
-- Ashish (https://www.kaggle.com/ashydv/housing-price-prediction-linear-regression)
+- Shree (https://www.kaggle.com/shree1992/housedata)
 - Chanin Nantasenamat(https://data-professor.medium.com/)
 
-[You can view the application here](https://share.streamlit.io/zaephaer/bamford/main/housing.py)
+[You can view the application here]()
